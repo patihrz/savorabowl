@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="[DEMO](https://savorabowl.vercel.app/)"><strong>Lihat Live Demo »</strong></a>
+  <a href="https://savorabowl.vercel.app/"><strong>Lihat Live Demo »</strong></a>
 </p>
 
 
