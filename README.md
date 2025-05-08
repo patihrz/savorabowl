@@ -1,8 +1,7 @@
 # Savora Bowl - Website Portofolio Restoran Nusantara Modern
 
 <p align="center">
-  {/* GANTI DENGAN PATH LOGO ANDA JIKA SUDAH ADA DI REPO */}
-  <img src="/savora-logo.png" alt="Savora Bowl Logo" width="150"/>
+  <img src="https://savorabowl.vercel.app/savora-logo.png" alt="Savora Bowl Logo" width="150"/>
 </p>
 
 <p align="center">
@@ -11,10 +10,9 @@
 
 <p align="center">
   {/* GANTI placeholder LINK dengan URL deploy Anda */}
-  <a href="[Link ke Live Demo Anda di Vercel/Netlify/dll]"><strong>Lihat Live Demo »</strong></a>
+  <a href="[DEMO](https://savorabowl.vercel.app/)"><strong>Lihat Live Demo »</strong></a>
 </p>
 
----
 
 ## Tentang Proyek
 
