@@ -96,34 +96,9 @@ Pastikan Anda memiliki [Node.js](https://nodejs.org/) (disarankan versi LTS terb
 ---
 
 ## Struktur Folder Proyek
-savora-bowl/
-├── dist/                   # Folder hasil build (setelah npm run build)
-├── node_modules/           # Dependensi proyek
-├── public/                 # Aset statis (logo, gambar background, favicon, dll.)
-│   ├── savora-logo.png
-│   ├── hero-background.gif
-│   ├── savora-place.jpg
-│   └── images/
-│       ├── branch-1.jpg
-│       └── ...
-├── src/
-│   ├── assets/             # Aset yang diproses Vite (jika ada)
-│   ├── components/         # Komponen UI React reusable
-│   │   ├── common/         # Komponen umum (Navbar, Footer, StyledButton)
-│   │   ├── layout/         # Komponen tata letak (MainLayout)
-│   │   └── sections/       # Komponen spesifik per bagian halaman (HeroSection)
-│   ├── pages/              # Komponen Halaman (HomePage, AboutPage, BranchesPage)
-│   ├── App.jsx             # Komponen aplikasi utama (routing)
-│   ├── main.jsx            # Titik masuk aplikasi React
-│   └── index.css           # CSS global & direktif Tailwind
-├── .eslintrc.cjs           # Konfigurasi ESLint
-├── .gitignore              # File/folder yang diabaikan Git
-├── index.html              # Template HTML utama
-├── package-lock.json       # Pengunci versi dependensi (npm)
-├── package.json            # Informasi proyek & dependensi
-├── postcss.config.js       # Konfigurasi PostCSS
-├── tailwind.config.js      # Konfigurasi Tailwind & DaisyUI
-└── vite.config.js          # Konfigurasi Vite
+
+![Screenshot 2025-05-08 233531](https://github.com/user-attachments/assets/d0caaf14-0208-4d98-88ad-401452b68446)
+
 
 ---
 
