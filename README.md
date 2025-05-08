@@ -28,8 +28,7 @@ Tujuan utama proyek ini adalah untuk **showcase kemampuan teknis front-end** dan
 
 ## Screenshot
 
-**(Ganti gambar placeholder di bawah ini dengan screenshot asli proyek Anda!)**
-
+![Tampilan](https://github.com/user-attachments/assets/29593fb6-3a23-4132-9b7c-bcaeddf9ceb2)
 
 ---
 
