@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  {/* GANTI placeholder LINK dengan URL deploy Anda */}
   <a href="[DEMO](https://savorabowl.vercel.app/)"><strong>Lihat Live Demo »</strong></a>
 </p>
 
