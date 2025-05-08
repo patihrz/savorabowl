@@ -17,11 +17,6 @@ const SectionWrapper = ({ id, children, className = '', aosType = "fade-up", aos
   </section>
 );
 
-// Data Fiktif untuk Tim (Tetap sama)
-const teamFounders = [
-  { name: "Andika Pratama", role: "Chief Culinary Officer", image: "https://via.placeholder.com/350x350/FEF6EF/8C7A7A?text=Andika+P.", description: "Visioner di balik cita rasa unik Savora Bowl..." },
-  { name: "Citra Lestari", role: "Head of Operations", image: "https://via.placeholder.com/350x350/FEF6EF/8C7A7A?text=Citra+L.", description: "Menjamin setiap mangkuk Savora Bowl tersaji sempurna..." },
-];
 
 const AboutPage = () => {
   return (
@@ -51,7 +46,7 @@ const AboutPage = () => {
         <div className="grid lg:grid-cols-2 gap-12 md:gap-16 items-center">
           <div data-aos="fade-right" data-aos-duration="900">
             <img
-              src="public/rahasia.jpg" // GANTI GAMBAR ANDA
+              src="/rahasia.jpg" // GANTI GAMBAR ANDA
               alt="Inspirasi di balik Savora Bowl"
               className="rounded-xl shadow-xl object-cover w-full h-full max-h-[700px]"
             />
@@ -119,7 +114,7 @@ const AboutPage = () => {
            </div>
            <div data-aos="fade-left" data-aos-duration="900" data-aos-delay="100">
              <img
-               src="public/rempah.jpg" // GANTI GAMBAR ANDA (misal: bahan baku)
+               src="/rempah.jpg" // GANTI GAMBAR ANDA (misal: bahan baku)
                alt="Komitmen Kualitas Savora Bowl"
                className="rounded-xl shadow-xl object-cover w-full h-full max-h-[500px]"
              />
